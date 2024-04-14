@@ -1,5 +1,8 @@
 # Code and Consciousness: An Analysis of the Adoption and Perception of AI Across Developer Demographics and Specializations
 
+> ![Warning]
+> This project is a work in progress and is not yet complete.
+
 ## Getting the Data
 The data is available within the data.zip file or can be obtained from [Kaggle](https://www.kaggle.com/datasets/mahdialfred/stack-overflow-developer-survey-2023?select=survey_results_public.csv).
 
