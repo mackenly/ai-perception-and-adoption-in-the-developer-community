@@ -1,6 +1,6 @@
 # Code and Consciousness: An Analysis of the Adoption and Perception of AI Across Developer Demographics and Specializations
 
-> ![Warning]
+> [!Warning]
 > This project is a work in progress and is not yet complete.
 
 ## Getting the Data
