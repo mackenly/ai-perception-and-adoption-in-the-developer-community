@@ -4,6 +4,8 @@
 
 Uses 2023 Stack Overflow Developer Survey Data to analyze the adoption and perception of AI across developer demographics and specializations.
 
+[Read the full paper and analysis here](./PAPER.md)
+
 ## Getting the Data
 The data is available within the data.zip file or can be obtained from [Kaggle](https://www.kaggle.com/datasets/mahdialfred/stack-overflow-developer-survey-2023?select=survey_results_public.csv).
 
